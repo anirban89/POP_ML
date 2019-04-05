@@ -1,0 +1,2 @@
+model_checkpoint_path: "weights_5layer_batch1200_8080808020_750d"
+all_model_checkpoint_paths: "weights_5layer_batch1200_8080808020_750d"
